@@ -104,7 +104,7 @@
 - Misc Components that need an aiframe
   - 2W Analog VTX (Needs a camera)
   - Infrared Caddx VTX
-  - Walksnail hd pro
+  - Walksnail hd pro x2
   - Visible light lumineer pill
   - Dropper x2
   - Crossfire nano
