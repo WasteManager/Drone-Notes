@@ -6,7 +6,7 @@
 - [ ] Change rates to actual rates
 
 # QAV-S JFPV Analog
-- [ ] Replace motor
+- [x] Replace motor
 - [ ] Increase VTX wattage
 - [ ] Change rates to actual rates
 
