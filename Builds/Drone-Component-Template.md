@@ -1,0 +1,11 @@
+# Template for new builds, details
+  - Frame:
+  - Flight Controller:
+  - ESC:
+  - Radio Reciever:
+  - VTX:
+  - Motors:
+  - Camera:
+  - Firmware:
+  - UART assignments:
+  - Special Features:
