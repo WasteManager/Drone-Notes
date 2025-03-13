@@ -1,9 +1,9 @@
 # QAV-R Analog
-- [ ] Re-calibrate gyros and accelerometer
+- [x] Re-calibrate gyros and accelerometer
 - [ ] Glue camera into position
 - [ ] Put on bigger props
-- [ ] Increase VTX wattage
-- [ ] Change rates to actual rates
+- [x] Increase VTX wattage
+- [x] Change rates to actual rates
 
 # QAV-S JFPV Analog
 - [x] Replace motor
@@ -24,4 +24,4 @@
 - [ ] Troubleshoot (VTX cutout during last flight)
 
 # 7 in frame
-- [ ]
+- [ ] Replace Flight controller and esc?
