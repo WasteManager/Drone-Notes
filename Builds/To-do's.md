@@ -17,11 +17,11 @@
 # QAV-S JFPV Analog 7in
 - [ ] Configure Arducopter
 - [ ] Test fly
-- [ ] Attach kill-cam
+- [ ] replace FC
 
 # QAV-R 5in walksnail
 - [ ] clean
 - [ ] Troubleshoot (VTX cutout during last flight)
 
 # 7 in frame
-- [ ] Replace Flight controller and esc?
+- [ ] Replace Flight controller
