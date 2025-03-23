@@ -128,14 +128,25 @@
 - Qav-R 4
   - Betaflight
   - 5in
-  - Infrared caddx vtx
+  - walksnail caddx vtx
   - Crossfire
   - UART MAPPINGS:
   - FC:
   - ESC:
   - Motors:
+
+- Foxeer 10in
+  - Betaflight
+  - 10in
+  - analog camera w/Infrared caddx vtx on gimbal
+  - Crossfire
+  - UART MAPPINGS:
+  - FC:
+  - ESC:
+  - Motors:
+
  
   # Need to Acquire:
     - Crossfire nano pro x3
-    - FC/ESC Stack x3
-    - 7in props
+    - Matek H743 v3 x2
+
