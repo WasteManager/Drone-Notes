@@ -101,6 +101,16 @@
   - ESC:
   - Motors:
  
+ - Un-named 7in
+  - Betaflight
+  - 7in
+  - walksnail GT
+  - Crossfire
+  - UART MAPPINGS:
+  - FC:
+  - ESC:
+  - Motors:
+ 
 - Misc Components that need an aiframe
   - 2W Analog VTX (Needs a camera)
   - Infrared Caddx VTX
@@ -114,16 +124,6 @@
   - Motors:
  
 # To Build
-
-- Un-named 7in
-  - Betaflight
-  - 7in
-  - walksnail GT
-  - Crossfire
-  - UART MAPPINGS:
-  - FC:
-  - ESC:
-  - Motors:
 
 - Qav-R 4
   - Betaflight
